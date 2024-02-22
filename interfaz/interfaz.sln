@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaz", "interfaz\interfaz.csproj", "{8B1457FA-9B2B-4C30-8490-368F62842E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{20340BF1-D577-4C4D-8C56-375D38419B5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{7EAC1BF6-38B1-468F-924F-B18DE58C9A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B1457FA-9B2B-4C30-8490-368F62842E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1457FA-9B2B-4C30-8490-368F62842E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1457FA-9B2B-4C30-8490-368F62842E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1457FA-9B2B-4C30-8490-368F62842E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20340BF1-D577-4C4D-8C56-375D38419B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20340BF1-D577-4C4D-8C56-375D38419B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20340BF1-D577-4C4D-8C56-375D38419B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20340BF1-D577-4C4D-8C56-375D38419B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EAC1BF6-38B1-468F-924F-B18DE58C9A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAC1BF6-38B1-468F-924F-B18DE58C9A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAC1BF6-38B1-468F-924F-B18DE58C9A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAC1BF6-38B1-468F-924F-B18DE58C9A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD74FA3C-60D8-4C91-8A44-87C18CFFB308}
+	EndGlobalSection
+EndGlobal
